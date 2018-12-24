@@ -1,0 +1,9 @@
+#ro.product.model=OS105
+ro.version_id=special
+#ro.product.manufacturer=smartisan
+#ro.product.brand=SMARTISAN
+#ro.product.name=ocean
+#ro.product.device=ocean
+#ro.build.product=ocean
+#ro.product.codename=Smartisan U2 Pro
+#ro.product.board=sdm710
